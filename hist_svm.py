@@ -1,8 +1,11 @@
 '''
 
+Spatial pyramid kernel implementation with Python.
 
+Automates the process of reading the data and executes the SVM with the specified kernel parameters 
+through the terminal.
 
-
+__authors__ = David Bergés Lladó, Roser Cantenys Sabà and Alex Carrillo Alza
 
 '''
 
